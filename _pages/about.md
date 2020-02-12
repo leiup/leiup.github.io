@@ -14,4 +14,4 @@ Lei He, Miao Yu, Guanghui Wang. Spindle-Net: CNNs for Monocular Depth Inference 
 
 He, Lei, Qiulei Dong, and Guanghui Wang. "Fast depth extraction from a single image." International Journal of Advanced Robotic Systems 13.6 (2016): 1729881416663370.
 
-何雷, 董秋雷, and 胡占义. "从单幅图像学习场景深度信息固有的歧义性." 中国科学: 信息科学 7 (2016): 1.
+HE, Lei, Qiulei DONG, and Zhanyi HU. "The inherent ambiguity in scene depth learning from single images." SCIENTIA SINICA Informationis 46.7: 811-818.
