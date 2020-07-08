@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a researcher and development engineer working in Baidu Intelligent Driving Group (IDG), and simultaneously a postdoctor fellow at the University of Tsinghua, supervised by Prof. Jie Zhou. In June 2018, I received my PhD degree from the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. Zhanyi Hu. Prior to this, I received my BS degree from BeiHang University in June 2013.
 
-My research focuses on computer vision, machine learning and pattern recognition. I am interested in L4-Hdmap auto-update: how to use the domain knowledge of computer vision, machine learning, and pattern recognition to update L4-Hdmap efficently and fast.
+My research focuses on computer vision, machine learning and pattern recognition. I am interested in L4 Hdmap Autonomous Update: how to use the state-of-the-art algorithms to update the L4 Hdmap more efficiently and effectively.
 
 ## Publications
 
