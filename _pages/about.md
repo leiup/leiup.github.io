@@ -21,3 +21,5 @@ He, Lei, Qiulei Dong, and Guanghui Wang. "Fast depth extraction from a single im
 
 何雷, 董秋雷, and 胡占义. "从单幅图像学习场景深度信息固有的歧义性." 中国科学: 信息科学 7 (2016): 1.
 
+Lei He, Jiwen Lu, Guanghui Wang, Shiyu Song, Jie Zhou. "SOSD-Net: Joint Semantic Object Segmentation and Depth Estimation from Monocular images"
+
