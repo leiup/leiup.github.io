@@ -23,3 +23,4 @@ He, Lei, Qiulei Dong, and Guanghui Wang. "Fast depth extraction from a single im
 
 Lei He, Jiwen Lu, Guanghui Wang, Shiyu Song, Jie Zhou. "SOSD-Net: Joint Semantic Object Segmentation and Depth Estimation from Monocular images"
 
+Lei He, "Learning Depth from Single Images", Doctoral Thesis.
